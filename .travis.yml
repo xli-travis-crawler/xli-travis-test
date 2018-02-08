@@ -6,4 +6,4 @@ addons:
       - oracle-java8-installer
 env:
   - FOO=foo BAR=bar
-  - FOO=bar BAR=foo      
+  - FOO=bar BAR=bar      
